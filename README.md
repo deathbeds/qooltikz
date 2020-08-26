@@ -1,4 +1,7 @@
 # qooltikz
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deathbeds/qooltikz/master?urlpath=lab)
+
 Sample of `qool` stuff to do with TikZ.
 
 These examples use https://github.com/mkrphys/ipython-tikzmagic
