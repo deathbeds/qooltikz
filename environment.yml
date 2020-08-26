@@ -4,6 +4,7 @@ channels:
 dependencies:
 - pdf2svg
 - texlive-core
+- imagemagick
 - tectonic
 - pip
 - pip:
